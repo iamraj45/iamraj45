@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm an aspiring Software Engineer who is passionate about learning new things. Currently I am in final year of B. Tech in Computer Science and Engineering.<br>Some technologies I enjoy working with include Python and ReactJS. Apart from this, I love playing video games and I'm a big fan of Cricket.
+I'm an aspiring Software Engineer who is passionate about learning new things. I am a final year student pursuing B. Tech in Computer Science and Engineering.<br>Some technologies I enjoy working with include Python and ReactJS. Apart from this, I love playing video games and I'm a big fan of Cricket.
 
 
 ## 🌐 Socials:
